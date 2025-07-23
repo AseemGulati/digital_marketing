@@ -23,16 +23,9 @@ An AI-powered assistant to optimize digital marketing strategies using Large Lan
 
 ## 🗂️ Project Structure
 
-digital-marketing-ai/
-
+resume-analysis.ai/
 │
+├── app.py # Main Streamlit app
+├── .env # API key and secret config
+└── .venv/ # Virtual environment (not pushed to GitHub)
 
-├── app.py # Streamlit app – main UI & logic
-
-├── analysis.py # LLM prompt engineering and response handling
-
-├── utils.py # Helper functions for formatting or API integration
-
-├── requirements.txt # Python dependencies
-
-└── .env # API keys and environment variables
