@@ -22,6 +22,7 @@ An AI-powered assistant to optimize digital marketing strategies using Large Lan
 ---
 
 ## 🗂️ Project Structure
+
 digital-marketing-ai/
 │
 ├── app.py # Streamlit app – main UI & logic
