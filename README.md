@@ -25,7 +25,10 @@ An AI-powered assistant to optimize digital marketing strategies using Large Lan
 
 resume-analysis.ai/
 │
+
 ├── app.py # Main Streamlit app
+
 ├── .env # API key and secret config
+
 └── .venv/ # Virtual environment (not pushed to GitHub)
 
