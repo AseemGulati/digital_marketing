@@ -26,8 +26,13 @@ An AI-powered assistant to optimize digital marketing strategies using Large Lan
 digital-marketing-ai/
 
 │
+
 ├── app.py # Streamlit app – main UI & logic
+
 ├── analysis.py # LLM prompt engineering and response handling
+
 ├── utils.py # Helper functions for formatting or API integration
+
 ├── requirements.txt # Python dependencies
+
 └── .env # API keys and environment variables
