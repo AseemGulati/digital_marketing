@@ -19,6 +19,16 @@ An AI-powered assistant to optimize digital marketing strategies using Large Lan
 2. Choose from tools like campaign generator, content writer, or SEO assistant.
 3. Get tailored suggestions and export results.
 
+
+---
+
+## 🧾 Sample Use Cases
+
+- Analyzing marketing posters.
+- Describing visual data or charts.
+- Extracting insights from infographics.
+- Creative content generation from images.
+
 ---
 
 ## 🗂️ Project Structure
